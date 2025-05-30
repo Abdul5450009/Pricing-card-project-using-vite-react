@@ -1,1 +1,1 @@
-# Pricing-card-project-using-vite-react
+# Pricing-card-project
